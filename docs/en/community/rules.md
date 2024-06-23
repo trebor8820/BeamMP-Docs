@@ -68,9 +68,9 @@ This includes asking others repeatedly for a response after being ignored or tol
 
 # How to appeal actions against you:
 
-### Ban appeals may be submitted on the forum at <a href="https://forum.beammp.com/category/28/ban-appeal" class="inline-onebox">Ban Appeal - BeamMP <span class="badge badge-notification clicks" title=""></span></a>.
+### Ban appeals may be submitted on the forum at <a href="https://docs.google.com/forms/d/1MaTPKM-MHQU5lUtxeOKz3C7OoI6Xbu5RX5AJdX-UOz4/edit" class="inline-onebox">Ban Appeal - BeamMP <span class="badge badge-notification clicks" title=""></span></a>.
 
-All ban appeals are investigated thoroughly, involving at least two (2) members of the staff/moderation team that were not involved in the case-at-hand.  The issuing staff member will be allowed to comment, but will not be otherwise involved in the appeal decision.  These appeal outcomes are final. BeamMP reserves the right to allow or not allow members as they deem appropriate according to the [BeamMP Community Guidelines](https://forum.beammp.com/t/beammp-rules/282059), [Discord ToS](https://discord.com/terms), and [other factors](https://forum.beammp.com/category/28/ban-appeal).
+All ban appeals are investigated thoroughly, involving at least two (2) members of the staff/moderation team that were not involved in the case-at-hand.  The issuing staff member will be allowed to comment, but will not be otherwise involved in the appeal decision.  These appeal outcomes are final. BeamMP reserves the right to allow or not allow members as they deem appropriate according to the [BeamMP Community Guidelines](https://docs.beammp.com/community/rules/), [Discord ToS](https://discord.com/terms), and [other factors](https://docs.google.com/forms/d/1MaTPKM-MHQU5lUtxeOKz3C7OoI6Xbu5RX5AJdX-UOz4/edit).
 
 In the event of action taken against you, you are prohibited from creating a new Discord or BeamMP account to circumvent the ban.
 
